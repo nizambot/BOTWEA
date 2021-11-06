@@ -1,1 +1,1 @@
-web: node . --server
+web: npm install && npm update && node . --server
